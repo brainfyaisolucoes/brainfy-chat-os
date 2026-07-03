@@ -1,6 +1,6 @@
 {
-	"short_name": "Atendechat",
-	"name": "Atendechat",
+	"short_name": "Brainfy OS",
+	"name": "Brainfy OS",
 	"icons": [
 		{
 			"src": "favicon.ico",
@@ -15,6 +15,6 @@
 	],
 	"start_url": ".",
 	"display": "standalone",
-	"theme_color": "#000000",
+	"theme_color": "#3F4EE0",
 	"background_color": "#ffffff"
 }
